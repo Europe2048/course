@@ -1,0 +1,87 @@
+body {
+	background-color: orange;
+}
+p {
+	font-size: 32px;
+}
+.p1 {
+	color: white;
+	background-color: gray;
+}
+.p2 {
+	font-family: sans-serif;
+}
+.p3 {
+	font-family: Georgia, Times, "Times New Roman", serif;
+	color: #FF8080;
+	background-color: maroon;
+}
+.p4 {
+	font-family: "Cascadia Mono";
+	color: #FFC080;
+	background-color: #804000;
+}
+.p5 {
+	font-family: "Comic Sans MS";
+	color: #FFFF80;
+	background-color: olive;
+}
+.p6 {
+	font-family: fantasy;
+	color: lightblue;
+	background-color: navy;
+}
+.p7 {
+	font-family: math;
+	color: palegreen;
+	background-color: green;
+}
+.p8 {
+	font-family: "Clear Sans";
+	color: #FF80FF;
+	background-color: purple;
+}
+.p9 {
+	font-family: "Noto Sans";
+	color: black;
+	background-color: silver;
+}
+.p10 {
+	font-family: "Palatino Linotype";
+	color: red;
+	background-color: #FFC0C0;
+	text-shadow: 0 0 15px maroon;
+}
+.p11 {
+	font-family: "Franklin Gothic Book";
+	color: green;
+	background-color: #C0FFC0;
+	text-shadow: 2px -2px lime, 4px -4px #80FF80;
+}
+.p12 {
+	font-family: "Input";
+	color: navy;
+	background-color: lightblue;
+	text-shadow: 2px 2px blue;
+}
+.p13 {
+	font-weight: 700;
+}
+.p14 {
+	font-style: italic;
+}
+.p15 {
+	text-decoration: underline;
+	text-underline-position: under;
+}
+.p16 {
+	text-decoration: underline;
+	text-underline-position: under;
+	text-decoration-style: wavy;
+	text-decoration-color: blue;
+}
+.s1 {
+	font-size: 2em;
+	color: white;
+	text-shadow: 0 0 5px fuchsia;
+}

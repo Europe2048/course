@@ -1,0 +1,47 @@
+body {
+	background-color: #004040;
+}
+p {
+	color: springgreen;
+	font-size: 50px;
+	text-align: center;
+	font-family: "Cascadia Mono";
+}
+table {
+	color: springgreen;
+	font-family: "Cascadia Mono";
+	font-size: 24px;
+	border: 2px double white;
+	width: 80%;
+	border-collapse: collapse;
+}
+th {
+	border: 1px solid yellow;
+	width: 25%;
+	height: 1cm;
+}
+td {
+	border: 1px solid orange;
+	height: 1cm;
+	width: 25%;
+}
+tr:nth-child(odd) {
+	background-color: teal;
+	color: white;
+}
+tr:hover {
+	background-color: olive;
+	color: #FFFF80;
+}
+td:hover {
+	background-image: url(https://i.pinimg.com/originals/e6/f8/0b/e6f80be8122d7019c37b39b02dd6ec2c.gif);
+	font-weight: bold;
+	color: black;
+}
+caption {
+	text-transform: uppercase;
+	font-weight: bold;
+	color: black;
+	font-size: 2em;
+	background: linear-gradient(to right,red, yellow, lime, cyan, blue, magenta, red);
+}

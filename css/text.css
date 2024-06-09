@@ -1,0 +1,66 @@
+h1 {
+	font-weight: normal;
+	color: orange;
+	font-size: 2em;
+	font-family: 'Linux Libertine','Georgia','Times','Source Serif Pro',serif;
+	text-align: center;
+	letter-spacing: 2px;
+}
+h2 {
+	font-weight: normal;
+}
+h2,h3,h4 {
+	color: yellow;
+	font-family: sans-serif;
+}
+p {
+	color: #FFFFC0;
+	font-family: sans-serif;
+	text-align: justify;
+	text-indent: 24px;
+	line-height: 24px;
+}
+body {
+	background-color: #630;
+}
+.fr {
+	float: right;
+	border: solid 2px #C60;
+	padding: 5px;
+	width: min-content;
+}
+.fl {
+	float: left;
+	border: solid 2px #C60;
+	padding: 5px;
+	width: min-content;
+}
+.fl figcaption {
+    caption-side: bottom;
+	margin: 3px;
+	color: white;
+}
+.fr figcaption {
+    caption-side: bottom;
+	margin: 3px;
+	color: white;
+}
+ul {
+	color: white;
+	list-style: none;
+}
+a {
+	text-decoration: none;
+}
+a:link {
+	color: #80FFFF;
+}
+a:visited {
+	color: #0080FF;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:active {
+	color: #FFC000;
+}

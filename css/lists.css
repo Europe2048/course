@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+	background-color: #030;
+}
+p {
+	color: springgreen;
+	background-color: #060;
+	font-size: 48px;
+	font-family: 'Montserrat', system-ui;
+}
+ul {
+	color: cyan;
+	background-color: #063;
+	font-size: 16px;
+	font-family: 'Montserrat', system-ui;
+}
+ol {
+	color: white;
+	font-size: 16px;
+	font-family: 'Montserrat', system-ui;
+	margin-left: 25px;
+}
+.l1 li {
+	padding-left: 10px;
+}
+.l2 li::marker {
+	color: white;
+	font-size: 1.1em;
+}
+
+@counter-style emoji {
+  system: cyclic;
+  symbols: 😀 👻 👽 🦆 👾 🤖 🎃 😹;
+  suffix: " ";
+}
+
+.ul3 {
+	list-style: emoji;
+}
+
+dl {
+	color: yellow;
+	background-color: #360;
+	font-size: 16px;
+	font-family: 'Montserrat', system-ui;
+}

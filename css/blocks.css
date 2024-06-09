@@ -1,0 +1,131 @@
+body {
+	background-color: #804040;
+}
+p {
+	color: #FF8080;
+	font-size: 36px;
+	font-family: "Verdana";
+	background-color: #402020;
+}
+ul li {
+	color: #FF8080;
+	font-family: "Verdana";
+	font-size: 24px;
+	background-color: #402020;
+	display: block;
+	list-style: none;
+	line-height: 2em;
+}
+span {
+	border: dashed 2px white;
+	display: inline;
+}
+a {
+	text-decoration: none;
+	color: red;
+	font-size: 24px;
+	border: dotted 3px red;
+	padding: 5px;
+	background-color: white;
+}
+a:hover {
+	color: maroon;
+}
+#d1 {
+	color: cyan;
+	width: 700px;
+	height: 500px;
+	font-size: 36px;
+	font-family: "Verdana";
+	background-color: #004080;
+	display: block;
+	border-width: 15px;
+	border-style: dashed dotted;
+	border-color: red #FF5500 #FFAA00 yellow;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	margin-bottom: 50px;
+}
+#d2 {
+	color: yellow;
+	width: 500px;
+	height: 200px;
+	font-size: 36px;
+	font-family: "Verdana";
+	background-color: #804000;
+	display: flex;
+	border-width: 15px;
+	border-style: dashed;
+	border-color: blue #05f #0af #0ff;
+	padding: 100px;
+}
+
+#d11 {
+	width: 900px;
+	height: 150px;
+	background-color: #404040;
+	color: white;
+	font-size: 18px;
+	font-family: "Verdana";
+	display: block;
+	border-width: 10px;
+	border-style: groove;
+	border-color: black #005 #00a blue;
+	margin: 10px;
+}
+#d12 {
+	width: 900px;
+	height: 150px;
+	background-color: #404040;
+	color: white;
+	font-size: 18px;
+	font-family: "Verdana";
+	display: block;
+	border-width: 5px;
+	border-style: inset;
+	border-color: #0080ff #55aaaa #aad455 #ffff00;
+	margin: 10px;
+}
+#d3 {
+	width: 900px;
+	height: 450px;
+	background-color: #030;
+	border-width: 10px;
+	border-style: solid;
+	border-color: #060;
+	color: #9f9;
+	font-family: "Georgia";
+	display: block;
+	margin: 10px;
+	padding: 20px;
+	font-size: 30px;
+}
+#d31 {
+	width: 800px;
+	height: 320px;
+	background-color: #060;
+	border-width: 10px;
+	border-style: solid;
+	border-color: #090;
+	color: #cfc;
+	font-family: "Georgia";
+	display: block;
+	margin: 20px;
+	padding: 16px;
+	font-size: 23px;
+}
+#d311 {
+	width: 700px;
+	height: 210px;
+	background-color: #090;
+	border-width: 10px;
+	border-style: solid;
+	border-color: #0c0;
+	color: #fff;
+	font-family: "Georgia";
+	display: block;
+	margin: 20px;
+	padding: 11px;
+	font-size: 17px;
+}
