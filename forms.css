@@ -1,0 +1,39 @@
+body {
+	background-color: #404000;
+}
+p {
+	background-color: #4c4c00;
+	color: #e0e0c0;
+	font-size: 3em;
+	font-family: "Georgia";
+}
+label {
+	font-family: "Georgia";
+	color: white;
+}
+form {
+	font-size: 24px;
+	color: yellow;
+}
+input {
+	font-size: 24px;
+	color: yellow;
+	background-color: #404000;
+}
+textarea {
+	color: yellow;
+	background-color: #404000;
+}
+.robot {
+	width: 15px;
+}
+.sbt {
+	pdding: 5px 3px;
+	color: lime;
+	background-color: green;
+}
+.rst {
+	pdding: 5px 3px;
+	color: red;
+	background-color: maroon;
+}
